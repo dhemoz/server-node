@@ -53,7 +53,7 @@ Jalankan command berikut:
 **terraform init**
 Fungsi: Untuk inisialisasi awal pada directory file terraform kita
 
-**terraform plan **
+**terraform plan**
 Fungsi: Untuk mengetahui resource apa saja yang kita akan buat 
 
 **terraform apply**
